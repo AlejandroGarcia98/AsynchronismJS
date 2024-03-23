@@ -1,0 +1,17 @@
+{
+  "name": "asynchronismjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Alejandro Garcia juangarciac098@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
